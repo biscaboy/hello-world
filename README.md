@@ -8,3 +8,5 @@ So I wanted to practice more with GitHub Deskstop so I added this line and will 
 Here's another addition.  Want to check it out with Git... maybe.
 
 Here's an edit on the bash command line with vi.  Woot.
+ 
+This is a comment made in the david-hello branch.
