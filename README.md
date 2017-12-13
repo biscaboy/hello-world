@@ -72,3 +72,7 @@ Here are some git notes:
 578  git branch -d davids-hello
 
 582  git push origin :davids-hello
+
+Just a note on setting up remote origin... do it like this if you haven't cloned it: 
+
+git remote add origin git@github.com:YOURNAME/GitSharp.git
